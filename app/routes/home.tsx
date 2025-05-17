@@ -60,6 +60,15 @@ export default function Home() {
             </Button>
           </div>
         </div>
+        <div className="mt-4">
+          <a
+            href="https://github.com/feilvan/fcc-random-quote-machine"
+            target="_blank"
+            className="text-xs text-gray-800 hover:underline"
+          >
+            See source code ↗️
+          </a>
+        </div>
       </main>
     </>
   );
